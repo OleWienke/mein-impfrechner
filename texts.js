@@ -5,7 +5,7 @@ texts_german = {
     "info_data_storage": "Alle Daten bleiben im Browser."
   },
   "vaccination": {
-    "header": "Vaccination",
+    "header": "Impfung",
     "instruction": "Bitte angeben",
     "vaccination_label": "Impfstoff",
     "vaccination_instruction": "bitte auswählen",
