@@ -6,7 +6,7 @@ texts_german = {
   },
   "vaccination": {
     "header": "Impfung",
-    "instruction": "Bitte angeben",
+    "instruction": "Bitte angeben...",
     "vaccination_label": "Impfstoff",
     "vaccination_instruction": "bitte auswählen",
     "other_vaccines": "andere",
